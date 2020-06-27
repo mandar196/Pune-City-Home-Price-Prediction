@@ -22,6 +22,13 @@ The purpose of this project is to predict house prices in Pune city, this is the
   
   9-Evaluation
 
+# Screenshot
+
+![pune](https://user-images.githubusercontent.com/61036755/85920735-d87d1200-b893-11ea-8d12-d054928fb533.png)
+
+
+If you like this repo, please don't forget to give a ⭐.
+
 
 
 
